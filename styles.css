@@ -1,78 +1,66 @@
+.main {
+  padding: 3em 5em; }
+
 h1 {
-    width: 320px;
-    padding: 10px;
-    border: 5px solid black;
-    margin: 0;
-    color:orange;
-}
+  width: 320px;
+  padding: 20px;
+  border: 5px solid black;
+  margin: 0;
+  color: orange; }
 
 h3 {
-  color:ORANGE;
+  padding: 30px;
+  color: ORANGE;
   font-size: 75px;
-  padding: 25px;
+  padding: 25px; }
 
-  
-    background-image: url"file:///Users/InnovateBham_9/Desktop/job_photo_woman.png";
-    background-size: 400px;
-    background-position: 400px;
-}
-
-  
 h4 {
-  font-size: 25px;
-  
-}
+  font-size: 25px; }
 
-h5{
+h5 {
   display: inline;
   border-style: solid black;
   margin: 5px;
-  border-width: 10px;
+  border-width: 11x; }
 
-}
+.container {
+  background-color: beige;
+  overflow: auto;
+  font-family: 'Times New Roman', Times, serif; }
 
-.container{
-    background-color:beige;
-    overflow: auto;
-    font-family: 'Times New Roman', Times, serif
-    
-}
 .box {
-    width: 320px;
-    padding: 10px;
-    border: 2px solid black;
-    display: block;
-    background-position: 30px;
-    
-}
+  width: 320px;
+  padding: 10px;
+  border: 2px solid black;
+  display: block;
+  background-position: 30px; }
+
 /* .clearfix{
     content:"";
     display:table;
     clear: both;
 } */
-p{
+p {
   float: right;
-  display: block;
-}
+  display: block; }
 
 .row > .column {
-    padding: 0 8px;
-}
+  padding: 0 8px; }
+
 .row:after {
-    display: table;
-    content: "";
-    clear: both;
-}
+  display: table;
+  content: "";
+  clear: both; }
+
 .column {
-    float: left;
-    width: 100%;
-    border: 3px;
-    width: 500px;
-    padding: 10px;
-    font-family: Arial, Helvetica, sans-serif;
-    font-size: 20px;
-    line-height: 30px;
-
-
-
-}
+  float: left;
+  width: 100%;
+  border: 3px;
+  width: 500px;
+  padding: 10px;
+  font-family: Arial, Helvetica, sans-serif;
+  font-size: 20px;
+  line-height: 30px; }
+  .entry{
+    box-align: center;
+  }
