@@ -9,6 +9,7 @@ h1 {
     border: 5px solid black;
     margin: 0;
     color:orange;
+    system:text-align:left;float:left;
 }
 
 h3 {
@@ -18,18 +19,14 @@ h3 {
   padding: 25px;
 }
 
+.img{
+    width: 3em
+    height: 3em
+}
   
 h4 {
-  font-size: 25px;
+
   
-}
-
-h5{
-  display: inline;
-  border-style: solid black;
-  margin: 5px;
-  border-width: 11x;
-
 }
 
 .container{
@@ -41,7 +38,7 @@ h5{
 }
 .box {
     width: 320px;
-    padding: 10px;
+    padding: 100px;
     border: 2px solid black;
     display: block;
     background-position: 30px;
