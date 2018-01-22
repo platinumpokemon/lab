@@ -1,0 +1,17 @@
+
+.block {
+    background-color: rgb(210, 30, 30);
+    Border:0px Solid;
+    margin: 25em;
+    width: 40em;
+    height: 20em;
+}
+
+.box-button {
+     Color:red;
+     width:10px;
+     height: 10px;
+     margin:40px;
+     padding:75px;
+     
+}
